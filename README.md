@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there I am Saranraj S 👋
+A Passionate MERN stack Developer from chennai
+* I am currently looking for Software Developer Job 
+* Take look at my projects on my portfolio: https://saranrajsrportfolio.netlify.app/
+* Check my resume here: https://drive.google.com/file/d/1O8gCbTwcR2cFwp_XGOTqjKYQocu4Jx93/view?usp=sharing
+* Mail me @: saranraj21sr@gmail.com
 <!--
 **Saran21raj/Saran21raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
