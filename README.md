@@ -1,6 +1,6 @@
 ### Hi there I am Saranraj S 👋
 A Passionate MERN stack Developer from chennai
-* I am currently working as training software engineer in Preludesys 
+* I am currently working as Software engineer in Preludesys 
 * Take look at my projects on my portfolio: https://saranrajsrportfolio.netlify.app/
 * Check my resume here: https://drive.google.com/file/d/1O8gCbTwcR2cFwp_XGOTqjKYQocu4Jx93/view?usp=sharing
 * Mail me @: saranraj21sr@gmail.com
