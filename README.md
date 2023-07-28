@@ -2,7 +2,7 @@
 A Passionate MERN stack Developer from chennai
 * I am currently working as Software engineer in Preludesys 
 * Take look at my projects on my portfolio: https://saranrajsrportfolio.netlify.app/
-* Check my resume here: [https://drive.google.com/file/d/1O8gCbTwcR2cFwp_XGOTqjKYQocu4Jx93/view?usp=sharing](https://drive.google.com/file/d/1nLo8yI7th2JJ-tn8O2Zq3i_XiUgGCOGL/view?usp=sharing)
+* Check my resume here: https://drive.google.com/file/d/1nLo8yI7th2JJ-tn8O2Zq3i_XiUgGCOGL/view?usp=drive_link
 * Mail me @: saranraj21sr@gmail.com
 
 [![Saranraj most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saran21raj&layout=compact)](https://github.com/Saran21raj/)
